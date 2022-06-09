@@ -1,6 +1,7 @@
 package db
 
 import (
+	"API-GO-com-postgre/configs"
 	"database/sql"
 	"fmt"
 
